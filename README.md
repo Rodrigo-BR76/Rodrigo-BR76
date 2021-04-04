@@ -1,10 +1,12 @@
 # ...
-- 👋 'Hi, I’m' **@Rodrigo-BR76** ';'
-- 👀 'I’m interested in technologies, ...'
-- 🌱 'I’m currently learning about everything..'
-- 💞️ 'I’m looking to collaborate on ideas I want to leave recorded.'
-- 📫 'How to reach me, will be around here!'
+- 👋 Hi, I’m **@Rodrigo-BR76** ;
+- 👀 I’m interested in technologies, ...
+- 🌱 I’m currently learning about everything..
+- 💞️ I’m looking to collaborate on ideas I want to leave recorded.
+- 📫 How to reach me, will be around here!
+
 ---
+
 > .
 >> ..
 
